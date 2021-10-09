@@ -18,5 +18,4 @@ Way Forward -
 2. Automatically fetch the "following" users
 3. Categorize users into buckets if accurarely possible, using their bio, location etc.
 
-Screenshot:
 <img src="https://github.com/nineteen94/curatedTwitter/blob/main/screenshot.JPG" width="240">
