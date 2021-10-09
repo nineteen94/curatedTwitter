@@ -19,4 +19,4 @@ Way Forward -
 3. Categorize users into buckets if accurarely possible, using their bio, location etc.
 
 Screenshot:
-<img src="https://github.com/nineteen94/curatedTwitter/blob/master/screenshots.JPG" width="240">
+<img src="https://github.com/nineteen94/curatedTwitter/blob/master/screenshot.JPG" width="240">
