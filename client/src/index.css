@@ -1,0 +1,5 @@
+.spinner {
+    display: block;
+    margin: 0 auto;
+    animation: rotation 2s infinite linear;
+}
